@@ -1,0 +1,134 @@
+.a {
+    background : rgb(238, 236, 241);
+    border: 1px solid black;
+        position: relative;
+        top: 15px;
+        left: 15px;
+        width: 700px;
+        height: 500px;
+        border-radius: 5px;
+}
+.b {
+    background: white;
+   border: 1px solid black;
+   position: relative;
+   width: 684px;
+   height: 17px;
+   left: 7px;
+   top:10px;
+}
+
+
+.ba {
+    background: rgb(209, 198, 223);
+    border: 1px solid black;
+    position: relative;
+    height: 445px;
+    width:684px;
+    left: 7px; 
+    top: 9px;
+}
+.c{
+    background: white;
+    border: 1px solid black;
+    position: relative;
+    height: 30px;
+    width: 667px;   
+     /* Пароль мистера Пиклза  */
+    top: 7px;
+    left: 7px;
+}
+.ca {
+    border : 1px solid black;
+    position: relative;
+    top: 14px;
+    left: 7px;
+    width: 667px;
+    height:70px;
+}
+.row {
+    display: flex;
+    max-width: 667px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    
+    width:12%;
+    text-align: left;
+}
+.cc {
+    border: 2px solid black;
+    position: relative;
+    width: 665px;
+    height: 309px;
+    left : 7px;
+    top: 21px;
+}
+.but {
+    border: 0px;
+    background: white;
+    cursor:  pointer;
+
+
+}
+.but:hover {
+    background: rgb(93, 86, 182);
+}
+.rrr {
+    margin-left: 20px ;
+    
+}
+
+table {
+    align-items: right;
+    width: 80%;
+    height: 95%;
+    position: absolute;
+    left: 126px;
+    top: 6px;
+}
+.qwerty {
+    width: 63px;
+    height: 45px;
+    border-radius: 5px; 
+}
+
+
+.fff {
+    
+    width: 100%;
+}
+.www {
+    height: 100%;
+    
+}
+button{
+    background: rgb(190, 190, 190);
+    background: radial-gradient(at 90% 10%, white,gray);
+}
+.ccc{
+    border: 1px solid black;
+    border-radius:5px;
+    position: relative;
+    width: 120px;
+    height: 145px;
+    left: 4px;
+    top: 6px;
+    display: inline-block;
+    
+}
+.ccca {
+    border: 1px solid black;
+    position: relative;
+    width: 120px;
+    height: 145px;
+    left: 4px;
+    border-radius:5px;
+    top: 9px;
+    
+}
+
